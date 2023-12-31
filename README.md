@@ -12,7 +12,7 @@ pip install pytube
 ## Usage
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Paste links into ***mp3s.txt*** and ***mp4s.txt***.
+3. Paste links (link per line) into ***mp3s.txt*** and ***mp4s.txt***.
 4. Right click on the **run.bat** script.
 5. Fetch downloaded files from the downloads directory.
 
